@@ -3,3 +3,7 @@ body{
     align-items: center;
     display: flex;
 }
+.btn.escola{
+    color: white;
+    box-shadow: aqua;
+}
